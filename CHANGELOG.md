@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.1.1](https://github.com/googleapis/java-bigquerystorage/compare/v3.1.0...v3.1.1) (2024-02-06)
+
+
+### Dependencies
+
+* Update dependency com.google.truth:truth to v1.4.0 ([#2394](https://github.com/googleapis/java-bigquerystorage/issues/2394)) ([3234fc9](https://github.com/googleapis/java-bigquerystorage/commit/3234fc93476342774a92febd14fb4a9a08bca330))
+* Update dependency org.json:json to v20240205 ([#2398](https://github.com/googleapis/java-bigquerystorage/issues/2398)) ([7e6481d](https://github.com/googleapis/java-bigquerystorage/commit/7e6481d3daf1c3930c48670ccd774f1629e22360))
+* Update dependency org.junit.vintage:junit-vintage-engine to v5.10.2 ([#2397](https://github.com/googleapis/java-bigquerystorage/issues/2397)) ([f01182b](https://github.com/googleapis/java-bigquerystorage/commit/f01182b63fb31dd8a1d95f5e084b3f2ddb2e8580))
+
 ## [3.1.0](https://github.com/googleapis/java-bigquerystorage/compare/v3.0.1...v3.1.0) (2024-02-02)
 
 
